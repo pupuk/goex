@@ -1,0 +1,2 @@
+# goex
+simple go example
